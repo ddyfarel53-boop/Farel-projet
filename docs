@@ -1,1 +1,19 @@
-ce projet.. 
+1) Contexte:
+Shopping de quartier au Cameroun
+Gestion difficile
+2)Objectif du projet 
+Aider à gérer les article
+Ajouter des articles avec photo
+Suivre le stock 
+Evaluer la tendance des article suivant les semaines et les périodes de l'année
+Pouvoir calculer le revenu estimal puisqu'on mettra les couts d'achat et de vente et faire une estimation de comment se comporte le marché
+3) Fonctionnalité version 1:
+Ajouter un article
+Modifier un article
+Supprimer un article
+Associer une photo à un article
+Faire un bilan des ventes et depots ( ajouts d'article) quotidien
+ 4) Utilisateurs:
+Propriétaire du Shopping
+5) Limite : pas de Version mobile pour l'instant
+
