@@ -1,2 +1,2 @@
 # Farel-projet
-Let's code some programs
+Example of app for a shopping
